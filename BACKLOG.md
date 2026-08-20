@@ -22,7 +22,9 @@ Rules of thumb applied to every item:
 
 ## Done
 
-Nothing yet.
+- [x] **copywriting** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item.
+- [x] **marketing-psychology** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item.
+- [x] **uret** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item.
 
 ## Queue
 

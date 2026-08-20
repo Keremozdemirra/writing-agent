@@ -49,9 +49,9 @@ asked. The description was written for the wrong phrasing. Say what you asked
 and what you expected, and it gets fixed — that feedback is more valuable than
 working around it.
 
-**What is actually built** is the Done section of [BACKLOG.md](BACKLOG.md).
-Everything under Queue is planned and does not exist yet. The daily loop builds
-one item a day; the table above is the intended shape, not the current state.
+**What is actually built** is listed under Contents below and in the Done
+section of [BACKLOG.md](BACKLOG.md). Everything under Queue is planned and does
+not exist yet.
 
 ## Layout
 
@@ -70,23 +70,22 @@ examples/
 
 See [BACKLOG.md](BACKLOG.md). The first unchecked item is the one being built.
 
-## Planned contents
+## Contents
 
-Nothing here is built yet. This table is the intended shape, and the daily loop
-fills it in one item at a time.
+| Skill | What it does |
+| --- | --- |
+| [copywriting](skills/copywriting) | Write or rewrite marketing copy for a page, starting from what the reader has to decide. |
+| [marketing-psychology](skills/marketing-psychology) | Apply behavioural principles to a marketing decision, with the ethical limit of each one stated. |
+| [uret](skills/uret) | Produce a finished piece of content end to end rather than a draft that still needs a writer. |
 
-| # | Skill | What it does |
-| --- | --- | --- |
-| 001 | [the-ask-first](skills/the-ask-first) | Put the point and the request in the opening, and treat everything after as support. |
-| 002 | [one-page-memo](skills/one-page-memo) | The format that forces a decision: situation, complication, question, answer, and what happens next, in one page that does not cheat on margins. |
-| 003 | [kill-the-filler](skills/kill-the-filler) | The catalogue of phrases that add length without meaning, with what each one is usually hiding. |
-| 004 | [proposal-structure](skills/proposal-structure) | Structure a proposal around the client's problem rather than your capabilities, including how to handle the sections procurement requires and nobody reads. |
-| 005 | [difficult-email](skills/difficult-email) | Write the message that delivers bad news, declines, or pushes back, without either softening it into ambiguity or making an enemy. |
-| 006 | [executive-summary](skills/executive-summary) | Write the summary that works alone, because it is the only part some readers will read. |
-| 007 | [voice-capture](skills/voice-capture) | Extract someone's actual register from their existing writing and apply it, rather than defaulting to a house style nobody chose. |
-| 008 | [edit-for-length](skills/edit-for-length) | Cut a document by half without losing an argument, and say which arguments were lost. |
-| 009 | [documentation-register](skills/documentation-register) | The voice these repositories are written in: plain declarative sentences, what a README owes the reader, and why the 'what this is not' section is the useful one. |
+| Agent | What it does |
+| --- | --- |
+| [icerik-yazari](agents/icerik-yazari.md) | Writes text that will be published. |
 
+These arrived already written and in daily use, rather than being built against the queue below — which is why most carry no item number. Some have Turkish bodies: they were written in the language they are used in, and translating them is a queue item rather than a blocker.
+
+Everything still under Queue in [BACKLOG.md](BACKLOG.md) does not exist
+yet. The daily loop builds one item a day.
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
