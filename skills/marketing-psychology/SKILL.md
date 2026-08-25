@@ -1,6 +1,6 @@
 ---
 name: "marketing-psychology"
-description: "Apply psychological principles, mental models, and behavioral science to marketing. Use for \"psychology,\" \"mental models,\" \"cognitive bias,\" \"persuasion,\" \"behavioral science,\" \"why people buy,\" \"consumer behavior,\" \"anchoring,\" \"social proof,\" \"scarcity,\" \"loss aversion,\" \"framing,\" or \"nudge\" — whenever someone wants to understand or leverage how people think and decide in a marketing context."
+description: "Apply psychological principles, mental models, and behavioral science to marketing. Use for \"psychology,\" \"mental models,\" \"cognitive bias,\" \"persuasion,\" \"behavioral science,\" \"why people buy,\" \"consumer behavior,\" \"anchoring,\" \"social proof,\" \"scarcity,\" \"loss aversion,\" \"framing,\" or \"nudge\" — whenever someone wants to understand or leverage how people think and decide in a marketing context. Türkçe isteklerde de tetiklen: \"insanlar neden satın alır\", \"ikna psikolojisi\", \"bilişsel önyargı\", \"sosyal kanıt nasıl kurulur\", \"kıtlık etkisi\". Not for writing the finished copy; use copywriting or cold-email for that."
 ---
 
 # Marketing Psychology & Mental Models

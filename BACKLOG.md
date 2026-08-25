@@ -22,6 +22,7 @@ Rules of thumb applied to every item:
 
 ## Done
 
+- [x] **cold-email** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item. Moved here from career-agent 2026-08-22.
 - [x] **copywriting** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item.
 - [x] **marketing-psychology** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item.
 - [x] **uret** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item.

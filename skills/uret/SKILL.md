@@ -1,6 +1,6 @@
 ---
 name: "uret"
-description: "Görsel ve video üretir — işi en ucuz yetkin modele yönlendirir, sağlayıcı API'sine gider, çıktıyı tek bir düz klasöre kaydeder ve yanına promptunu içeren JSON kaydı bırakır. \"Görsel üret\", \"video oluştur\", \"thumbnail yap\", \"reklam görseli\", \"logo/afiş\", \"ürün fotoğrafı\", \"reels\", \"şunu canlandır\", \"varyasyon çıkar\" gibi her üretim isteğinde kullan. Ödemeli video çağrısı öncesi maliyeti söyler ve onay bekler. API anahtarı gerektirir."
+description: "Görsel ve video üretir — işi en ucuz yetkin modele yönlendirir, sağlayıcı API'sine gider, çıktıyı tek bir düz klasöre kaydeder ve yanına promptunu içeren JSON kaydı bırakır. \"Görsel üret\", \"video oluştur\", \"thumbnail yap\", \"reklam görseli\", \"logo/afiş\", \"ürün fotoğrafı\", \"reels\", \"şunu canlandır\", \"varyasyon çıkar\" gibi her üretim isteğinde kullan. Also triggers on \"generate an image\", \"make me a video\", \"create a thumbnail\", \"produce an ad visual\", \"make variations of this\". Ödemeli video çağrısı öncesi maliyeti söyler ve onay bekler. API anahtarı gerektirir. Elle kurgulanan poster, afiş ve diyagramlar için kullanma; onun için canvas-design kullan."
 ---
 
 # Üret — Görsel ve Video

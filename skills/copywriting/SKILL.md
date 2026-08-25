@@ -1,6 +1,6 @@
 ---
 name: "copywriting"
-description: "When the user wants to write, rewrite, or improve marketing copy for any page — homepage, landing, pricing, feature, about, or product pages. Also for \"write copy for,\" \"improve this copy,\" \"headline help,\" \"CTA copy,\" \"value proposition,\" \"tagline,\" \"hero section,\" \"make this more compelling,\" or \"help me describe my product.\""
+description: "When the user wants to write, rewrite, or improve marketing copy for any page — homepage, landing, pricing, feature, about, or product pages. Also for \"write copy for,\" \"improve this copy,\" \"headline help,\" \"CTA copy,\" \"value proposition,\" \"tagline,\" \"hero section,\" \"make this more compelling,\" or \"help me describe my product.\" Türkçe isteklerde de tetiklen: \"landing page metni yaz\", \"bu metni güçlendir\", \"başlık öner\", \"değer önerisi kur\", \"ürünümü nasıl anlatayım\". Not for cold outbound email sequences; use cold-email for that."
 ---
 
 # Copywriting
